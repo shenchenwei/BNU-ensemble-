@@ -1,4 +1,4 @@
-# BNU-ensemble-
+# BNU-ensemble
 This project is for ensemble verification. 
 The code in the project is written by matlab, and I try to change it to the python or fortran.
 I want to build a ensemble forecasting system with initial perturbation (data assimilation) and stochastic physical perturbation. 
